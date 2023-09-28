@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "4hG6D9/W2Ddcz0e88l5CQPBtnkg4R6URkxr6ALQH8f8=",
+  "Source": "Projeto_Web-Lh_Pets_versão_1",
+  "BasePath": "_content/Projeto_Web-Lh_Pets_versão_1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web-Lh_Pets_versão_1\\wwwroot",
+      "Source": "Projeto_Web-Lh_Pets_versão_1",
+      "ContentRoot": "C:\\Users\\Lacerda\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_versão_1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Lacerda\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web-Lh_Pets_versão_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lacerda\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_versão_1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
